@@ -1,0 +1,8 @@
+# ninja log v5
+5	731	7444027118466039	CMakeFiles/Drumuri.dir/main.cpp.obj	f4bc693da58ebb62
+732	900	7444027120099738	Drumuri.exe	acada9452aee8aa2
+14	2178	7444026038883987	CMakeFiles/Drumuri.dir/DrumNational.cpp.obj	1fedb8d21e00de4f
+0	306	7444031610252222	build.ninja	a51f4203822f36
+4	639	7443940171893805	CMakeFiles/Drumuri.dir/Drum.cpp.obj	b16b9942493eda6a
+6	2202	7444026039066564	CMakeFiles/Drumuri.dir/DrumEuropean.cpp.obj	9b4edf7678b10a69
+26	2195	7444026039016572	CMakeFiles/Drumuri.dir/Autostrada.cpp.obj	35411b2433c6316d
